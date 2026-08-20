@@ -39,12 +39,12 @@ En cas de surcharge, le relais thermique F2 ouvre son contact 95-96 afin de coup
 ## Simulation
 ### Mise sous tension
 Lorsque le sectionneur est placé à l’état 1 (fermé), le circuit de commande est alimenté et le voyant H1 s’allume, indiquant la présence de tension.
-![Schéma électrique du démarrage direct](mise_sous_tension.png)
+![Mise sous tension](mise_sous_tension.png)
 
 ### Démarrage
 Appui sur S2 → KM1 s'active → moteur démarre → H2 s'allume : moteur en fonctionnement.
-![Schéma électrique du démarrage direct](mise_sous_tension.png)
+![demarrage](demarrage.png)
 ## Fichiers du projet
 
-- schéma_electrique.png : schéma électrique
+- schéma_electrique.png : schéma électrique, demarrage, mise sous tension
 - démarrage_direct_un_sens.smrl : fichier source SIMURELAY
