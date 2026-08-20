@@ -36,6 +36,9 @@ Lorsque S1 est actionné, le circuit de commande est interrompu, KM1 retombe et 
 
 En cas de surcharge, le relais thermique F2 ouvre son contact 95-96 afin de couper la commande du contacteur.
 
+## Simulation
+### Simulation
+
 ## Fichiers du projet
 
 - schéma_electrique.png : schéma électrique
