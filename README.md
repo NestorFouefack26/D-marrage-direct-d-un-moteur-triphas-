@@ -44,6 +44,9 @@ Lorsque le sectionneur est placé à l’état 1 (fermé), le circuit de command
 ### Démarrage
 Appui sur S2 → KM1 s'active → moteur démarre → H2 s'allume : moteur en fonctionnement.
 ![demarrage](demarrage.png)
+Déclenchement du relais thermique F2 → contact 95-96 s'ouvre → moteur s'arrête → contact 97-98 se ferme → H3 s'allume : défaut/surcharge moteur.
+## Présence d'une surcharge 
+![presence surcharge](présence_surcharge.png)
 ## Fichiers du projet
 
 - schéma_electrique.png : schéma électrique, demarrage, mise sous tension
